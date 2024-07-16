@@ -1,2 +1,2 @@
 <p align="center">
- ㅤ<img src="https://64.media.tumblr.com/775e018b5e99e3c82b14c7fc8100c592/c49fa24677cab701-d0/s1280x1920/52bb1aa4fb8d2ffd8f895037cb637d9e648c55ae.pnj">
+ ㅤ<img src="https://64.media.tumblr.com/9531edb344231e47224023edc07bd45a/407055fc4094a03f-5c/s400x600/c3f462b444486201b184b130b3961e287e0bc715.pnj">
