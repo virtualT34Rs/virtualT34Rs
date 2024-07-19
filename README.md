@@ -1,4 +1,2 @@
 <p align="center">
- <img src="https://static.wikia.nocookie.net/yokaiwatch/images/1/18/Kaira.gif/revision/latest?cb=20191022053428">
-<p align="center">
-  $${\color{#4C3BCF}A\space Yo-kai\space who\space succeeded\space Enma\space as\space the\space Lord\space of\space the\space Yo-kai\space World}$$
+ <img src="https://i.pinimg.com/564x/dd/93/3a/dd933a20a56b19a3a67eb1eaf2b2bce5.jpg">
