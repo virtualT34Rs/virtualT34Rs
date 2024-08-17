@@ -1,6 +1,3 @@
-<p align="center">
- <img src="https://static.wikia.nocookie.net/yokaiwatch/images/d/d6/Arachnus.gif/revision/latest?cb=20191202203454">
- <img src="https://static.wikia.nocookie.net/yokaiwatch/images/9/90/Toadal_Dude.gif/revision/latest?cb=20191202203832">
  <p align="center">
   <img height="100" src="https://64.media.tumblr.com/8130143a4dff673c3bc65d36718655b2/962c33a8d3565057-46/s2048x3072/c4cef2e9ad1b1215b03f335c084053f9467e0e49.pnj">
 <p align="center">
