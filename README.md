@@ -1,9 +1,7 @@
  <p align="center">
-  <img src="https://64.media.tumblr.com/f8942be620f444e0154d2cbe1b082af1/af1d2bd09d335007-fd/s1280x1920/6cf67510270d74299f358e3f724a9dc66160f7f2.gifv">
+  <img height="40" src="https://64.media.tumblr.com/edde266313957e2d5b4ba0194c86151b/5c57c273d1e43143-27/s2048x3072/b8cc186a632943c824216cafc9d24414bc7c4a76.pnj">
 <p align="center">
-<img src="https://i.pinimg.com/originals/1d/87/10/1d8710cb59b7258a537f85c287ea5b98.gif"> 
-<p align="center">
- <img height="300" src="https://64.media.tumblr.com/85853a1465e26a96ecf401d185ffa5bd/01c166eb9bed8833-cf/s540x810/95ea0b85f113cd284dc52e7a03efa5cbe807d6c8.pnj">
+<img src="https://i.pinimg.com/originals/e3/da/57/e3da5726f5c80d38d28716d7389b6c03.gif"> 
 <div align="center">
 
  [rentry](https://rentry.co/yorukaminn)
