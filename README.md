@@ -1,9 +1,8 @@
  <p align="center">
-  <img height="40" src="https://64.media.tumblr.com/edde266313957e2d5b4ba0194c86151b/5c57c273d1e43143-27/s2048x3072/b8cc186a632943c824216cafc9d24414bc7c4a76.pnj">
+<img height="20" src="https://64.media.tumblr.com/442a6090687d2227a57cf146053c5710/efd3f63b34629403-e8/s2048x3072/d83099c1888fcd7653dae24346a81b9d2d74d1b8.pnj"><img height="40" src="https://64.media.tumblr.com/9f8afdbdc41787fe254a77823d73baaf/3ff93314ac768d70-2d/s2048x3072/1ef80858e32d6165ceee98d73933efd04950a4c0.pnj"><img height="20" src="https://64.media.tumblr.com/442a6090687d2227a57cf146053c5710/efd3f63b34629403-e8/s2048x3072/d83099c1888fcd7653dae24346a81b9d2d74d1b8.pnj">
 <p align="center">
-<img src="https://i.pinimg.com/originals/e3/da/57/e3da5726f5c80d38d28716d7389b6c03.gif"> 
+<img src="https://i.pinimg.com/originals/19/39/41/19394175ada0a4690cc5f1b189337f17.gif"> 
 <div align="center">
 
- [rentry](https://rentry.co/yorukaminn)
- <img height="50" src="https://64.media.tumblr.com/17fc00ceb32202af4fdd5e1a3419969b/40413f7e689c669e-c0/s75x75_c1/65bade0f0c9811e05e9d960f2e9c2851448b7e9b.gifv">
- [iuc](https://open.spotify.com/playlist/3Dj57afeCbI5Z2FUNxQFj8)
+ <a href="https://rentry.co/yorukaminn/"><img src="https://64.media.tumblr.com/44ba5bcbf50f0ccee869203d14dcb01e/1f70b52391bf3126-57/s75x75_c1/395aba63c700eb5ae05d7fe11cdf0256af58b84a.gifv"> 
+  <img src="https://64.media.tumblr.com/30b82c8fc1d26446a62b343fa4c5e236/334a52adf4ce2435-6d/s75x75_c1/a27d13b8656f644118dca39d7ae822ebdbe8c49e.gifv">   <a href="https://open.spotify.com/playlist/3Dj57afeCbI5Z2FUNxQFj8"><img src="https://64.media.tumblr.com/3ceec79a39a27cfd002970070c26ea74/1f70b52391bf3126-3c/s75x75_c1/cd703b745ea80a75952303bbab151c6d5c748224.gifv">
