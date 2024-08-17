@@ -5,4 +5,4 @@
 <div align="center">
 
  <a href="https://rentry.co/yorukaminn/"><img src="https://64.media.tumblr.com/44ba5bcbf50f0ccee869203d14dcb01e/1f70b52391bf3126-57/s75x75_c1/395aba63c700eb5ae05d7fe11cdf0256af58b84a.gifv"> 
-  <img src="https://64.media.tumblr.com/30b82c8fc1d26446a62b343fa4c5e236/334a52adf4ce2435-6d/s75x75_c1/a27d13b8656f644118dca39d7ae822ebdbe8c49e.gifv">   <a href="https://open.spotify.com/playlist/3Dj57afeCbI5Z2FUNxQFj8"><img src="https://64.media.tumblr.com/3ceec79a39a27cfd002970070c26ea74/1f70b52391bf3126-3c/s75x75_c1/cd703b745ea80a75952303bbab151c6d5c748224.gifv">
+ <a href="https://open.spotify.com/playlist/3Dj57afeCbI5Z2FUNxQFj8"><img src="https://64.media.tumblr.com/3ceec79a39a27cfd002970070c26ea74/1f70b52391bf3126-3c/s75x75_c1/cd703b745ea80a75952303bbab151c6d5c748224.gifv">
