@@ -8,4 +8,4 @@
 
  [rentry](https://rentry.co/yorukaminn)
  <img height="50" src="https://64.media.tumblr.com/17fc00ceb32202af4fdd5e1a3419969b/40413f7e689c669e-c0/s75x75_c1/65bade0f0c9811e05e9d960f2e9c2851448b7e9b.gifv">
- [facebook](https://www.facebook.com/profile.php?id=61561076753649)
+ [iuc](https://open.spotify.com/playlist/3Dj57afeCbI5Z2FUNxQFj8)
