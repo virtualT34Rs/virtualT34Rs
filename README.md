@@ -1,7 +1,9 @@
  <p align="center">
-<img height="20" src="https://64.media.tumblr.com/442a6090687d2227a57cf146053c5710/efd3f63b34629403-e8/s2048x3072/d83099c1888fcd7653dae24346a81b9d2d74d1b8.pnj"><img height="40" src="https://64.media.tumblr.com/9f8afdbdc41787fe254a77823d73baaf/3ff93314ac768d70-2d/s2048x3072/1ef80858e32d6165ceee98d73933efd04950a4c0.pnj"><img height="20" src="https://64.media.tumblr.com/442a6090687d2227a57cf146053c5710/efd3f63b34629403-e8/s2048x3072/d83099c1888fcd7653dae24346a81b9d2d74d1b8.pnj">
+<img height=60 src="https://64.media.tumblr.com/6e912ada953d963dd2546ac5da88f78f/97322d241f77a835-22/s2048x3072/7cbe1bf8e301236bef2e138c3b7ba84666fce19b.pnj">
 <p align="center">
-<img src="https://i.pinimg.com/originals/19/39/41/19394175ada0a4690cc5f1b189337f17.gif"> 
+ <img src="https://i.pinimg.com/564x/6f/43/0b/6f430bd45e108b00ac0084064a3c1624.jpg"> 
+<p align="center">
+ <img height=40 src="https://64.media.tumblr.com/e05951cdcba0cd9a7f7196de0831f23f/2bd480caae74b1ef-a1/s2048x3072/3b15eaa8ea36a671b79dd4cbb61328fd775f9c37.pnj">
 <div align="center">
 
  <a href="https://rentry.co/yorukaminn/"><img height="50" src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/453969899_475513258588030_7102665431633147607_n.png?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=7CKEC9hAzF8Q7kNvgH8NVcR&_nc_ht=scontent.fdad2-1.fna&oh=03_Q7cD1QGYKfTMxmvSwAdn5KewikuH8CXubVr1WoxbTQPhyZXi1w&oe=66E8275F"> 
